@@ -3,7 +3,7 @@
 A `rule` is a test that your website needs to pass. `sonarwhal` comes with
 a few [built in ones](../rules/), but you can create your own or download
 them from `npm`. You can read more about [how to create rules in the
-contributor guide](../../contributor-guide/rules/index.md).
+contributor guide](../../contributor-guide/how-to/rule/index.md).
 
 ## Rule configuration
 
